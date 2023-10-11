@@ -1,0 +1,46 @@
+{
+    "cardsData": [
+      {
+        "imageUrl": null,
+        "name": "John Doe",
+        "isActive": true,
+        "date": "Oct, 1 2023",
+        "text": " ipsum dolor sit amet, consectetur aLoremdipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamc",
+        "likes": 2350,
+        "comments": 2343,
+        "shares": 567
+      },
+      {
+        "imageUrl": "https://placehold.co/400/5733FF/FFFFFF",
+        "name": "Bob Johnson",
+        "isActive": false,
+        "date": "Oct, 3 2023",
+        "text": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamc.",
+        "likes": 800,
+        "comments": 750,
+        "shares": 100
+      },
+      {
+        "imageUrl": "https://placehold.co/400/FF5733/FFFFFF",
+        "name": "John Doe",
+        "isActive": true,
+        "date": "Oct, 4 2023",
+        "text": "ipsum dolor sit amet, consectetur aLoremdipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamc",
+        "likes": 2200,
+        "comments": 2000,
+        "shares": 500
+      },
+      {
+        "imageUrl": "https://placehold.co/400/33FF57/FFFFFF",
+        "name": "Eve Wilson",
+        "isActive": true,
+        "date": "Oct, 5 2023",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "likes": 1800,
+        "comments": 1600,
+        "shares": 400
+      }
+      
+
+    ]
+  }

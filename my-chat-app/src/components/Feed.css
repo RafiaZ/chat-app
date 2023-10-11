@@ -1,0 +1,17 @@
+.feeds{
+    display: flex;
+    flex-direction: column;
+    flex-grow: 1;
+}
+
+.feeds input{
+   width: 100%;
+}
+
+.story-button{
+    display: flex;
+    align-items: center;
+    font-size: 13px;
+    gap: 5px;
+    flex-grow: 1;
+}

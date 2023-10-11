@@ -1,0 +1,17 @@
+.left-panel {
+    /* width: 20%; */
+    padding: 8px;
+    min-width: 200px;
+}
+
+.panel-options {
+    list-style: none;
+
+}
+
+.panel-item {
+    font-size: 14px;
+    color: rgb(89, 160, 190);
+    padding-inline: 10px;
+    padding-block: 10px;
+}
