@@ -8,10 +8,10 @@ function Feeds() {
             <div className='feeds'>
                 <div className='avatar'>
                     <img />
-                    <input type='text' />
+                    <input type='textbox' className='feed-textbox' />
                 </div>
 
-                <div className='d-flex'>
+                <div className='d-flex mt-1'>
                     <div className='story-button'>
                         <img />
                         story activity
